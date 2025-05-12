@@ -33,6 +33,13 @@ This repository contains a curated collection of projects I’ve completed durin
 | `Budget and Financial Modeling` | Used Excel functions, charts, and what-if analysis for financial planning. | Excel Modeling, Charting, Goal Seek |
 
 ---
+## 🔐 How to Access Projects
+
+These projects are stored in **private GitHub repositories** to preserve academic integrity. If you're an employer or recruiter and would like to view them, I’d be happy to grant access.
+
+📩 **To request access**, please send me your GitHub username via [LinkedIn] or email me.
+
+I’ll add you as a **collaborator** so you can securely explore the code.
 
 ## 📬 Contact
 
